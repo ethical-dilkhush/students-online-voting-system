@@ -48,10 +48,6 @@ A lightweight, web-based voting application built with PHP and MySQL. It lets ad
 - `database/voting_db.sql` - Schema seed
 - `assets/` - Vendor dependencies, styles, and client assets
 
-## Topics
-
-voting, students, php, mysql, elections
-
 ## License
 
 MIT License
